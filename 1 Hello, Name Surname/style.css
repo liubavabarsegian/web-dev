@@ -1,0 +1,45 @@
+.container
+{
+  display: flex;
+  flex-direction: column;
+}
+.user__name
+{
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 300px;
+  height: 30px;
+  padding: 20px 0px;
+}
+.user__surname
+{
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 300px;
+  height: 30px;
+}
+.name__label
+{
+  align-self: center;
+}
+.surname__label
+{
+  align-self: center;
+}
+.name__input
+{
+  margin-left: 35px;
+}
+.surname__input
+{
+  margin-left: 5px;
+}
+.btn
+{
+  width: 100px;
+  height: 30px;
+  margin: 20px 0px;
+}
+

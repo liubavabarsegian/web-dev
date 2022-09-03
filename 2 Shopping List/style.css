@@ -1,0 +1,21 @@
+p
+{
+  font-size: 20px;
+}
+.choice
+{
+  padding: 10px 0px;
+}
+.choice:hover
+{
+  color: #6BA5C1;
+}
+.btn
+{
+  margin: 10px 0px;
+  padding: 5px;
+}
+.btn:hover
+{
+  background-color: #6BA5C1;  
+}
